@@ -1,5 +1,5 @@
 ## Тематика проекта: сайт [барбершопа](https://ru.wikipedia.org/wiki/Парикмахерская#Барбершоп).
-## [Ссылка на работающий проект](https://vasily-kowalev.github.io/EPAM_Final_Project/).
+## [Ссылка на работающий проект](https://vasily-kowalev.github.io/ITMO_practice_2/).
 Сайт представляет собой [landing page](https://ru.wikipedia.org/wiki/Целевая_страница) с личным кабинетом.\
 Проект сделан с использованием [Vue.js](https://ru.vuejs.org/).\
 Ниже представлено описание основных разделов проекта.
