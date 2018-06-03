@@ -13,4 +13,4 @@ yarn-error.log
 # Raw images
 public/img/raw/
 
-build/
+dist/
