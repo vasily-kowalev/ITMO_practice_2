@@ -1,0 +1,26 @@
+{
+    "extends": [
+        "plugin:vue/strongly-recommended"
+    ],
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "parser": "vue-eslint-parser",
+    "rules": {
+        "indent": [2, 4],
+        "vue/html-indent": [2, 4],
+        "vue/max-attributes-per-line": [2, {
+            "singleline": 1,
+            "multiline": {
+                "max": 1,
+                "allowFirstLine": false
+            }
+        }],
+        "no-trailing-spaces": 2,
+        "vue/html-closing-bracket-spacing": 2,
+        "vue/attribute-hyphenation": [2, "always"],
+        "vue/require-default-prop": 0,
+        "comma-dangle": [2, "always-multiline"]
+    }
+}
