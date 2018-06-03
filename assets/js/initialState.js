@@ -35,37 +35,37 @@ if (!localStorage.getObj('services')) {
             'id': 1,
             'title': 'Haircut',
             'price': 35.00,
-            'imagePath': '/public/img/services/haircut.jpg'
+            'imagePath': 'public/img/services/haircut.jpg'
         },
         {
             'id': 2,
             'title': 'Beard Service',
             'price': 20.00,
-            'imagePath': '/public/img/services/beardService.jpg'
+            'imagePath': 'public/img/services/beardService.jpg'
         },
         {
             'id': 3,
             'title': 'Buzz Cut',
             'price': 20.00,
-            'imagePath': '/public/img/services/buzzCut.jpg'
+            'imagePath': 'public/img/services/buzzCut.jpg'
         },
         {
             'id': 4,
             'title': 'Restyle',
             'price': 40.00,
-            'imagePath': '/public/img/services/restyle.jpg'
+            'imagePath': 'public/img/services/restyle.jpg'
         },
         {
             'id': 5,
             'title': 'Shave',
             'price': 20.00,
-            'imagePath': '/public/img/services/shave.jpg'
+            'imagePath': 'public/img/services/shave.jpg'
         },
         {
             'id': 6,
             'title': 'Haircut + Shave',
             'price': 55.00,
-            'imagePath': '/public/img/services/haircutShave.jpg'
+            'imagePath': 'public/img/services/haircutShave.jpg'
         }
     ]);
 }
